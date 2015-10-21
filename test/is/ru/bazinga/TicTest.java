@@ -9,6 +9,6 @@ public class TicTest {
   }
   @Test
   public void shouldBeZero() {
-    assertEquals(0, 0);
+    assertEquals(22, 22);
   }
 }
